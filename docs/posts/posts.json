@@ -2,7 +2,7 @@
   {
     "path": "posts/welcome/",
     "title": "Welcome to DACSS 601",
-    "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nour student projects.",
     "author": [
       {
         "name": "Meredith Rolfe",
@@ -15,7 +15,7 @@
     ],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2022-01-24T17:00:50-05:00",
-    "input_file": {}
+    "last_modified": "2022-01-26T19:24:42-05:00",
+    "input_file": "welcome.knit.md"
   }
 ]
