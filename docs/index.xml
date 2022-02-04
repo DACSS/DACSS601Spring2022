@@ -15,11 +15,29 @@
     <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate>
     <item>
       <title>HW1</title>
-      <dc:creator>Thomas Wilson</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3860290</link>
-      <description>HW1 - Practice with RPubs</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3860290</guid>
+      <dc:creator>April Merleaux</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux861483</link>
+      <description>third attempt :)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux861483</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distill Test 2</title>
+      <dc:creator>Justin Meade</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931</link>
+      <description>Distill test; take 2</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Niharika Pola</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660</link>
+      <description>This is an example of RMarkdown</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>DACSS 601: HW1</title>
@@ -27,6 +45,47 @@
       <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw</link>
       <description>Introduction to R</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sasi Tansaraviput HW1</title>
+      <dc:creator>Sasi Tansaraviput</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnoutsnake860945</link>
+      <description>Test for RPubs DACSS601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnoutsnake860945</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework 1</title>
+      <dc:creator>Damion Perry</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601postswelcome</link>
+      <description>Pilot post for developing a blog through R via distill for DCSS601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601postswelcome</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Eunsol Noh</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</link>
+      <description>This is an example of RMarkdown.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>EthanCampbellHW1</title>
+      <dc:creator>Ethan Campbell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941</link>
+      <description>First Assignment for DACSS.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Henry Nguyen, HW1</title>
+      <dc:creator>Henry Nguyen</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp860386</link>
+      <description>rpubs test for HW1</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp860386</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -40,59 +99,10 @@
     </item>
     <item>
       <title>HW1</title>
-      <dc:creator>April Merleaux</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux861483</link>
-      <description>third attempt :)</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux861483</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW1</title>
       <dc:creator>Joseph Farrell</dc:creator>
       <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211861485</link>
       <description>HW 1 Resubmission</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211861485</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homework 1</title>
-      <dc:creator>Damion Perry</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601postswelcome</link>
-      <description>Pilot post for developing a blog through R via distill for DCSS601</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601postswelcome</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EthanCampbellHW1</title>
-      <dc:creator>Ethan Campbell</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941</link>
-      <description>First Assignment for DACSS.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell860941/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>HW1</title>
-      <dc:creator>Eunsol Noh</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</link>
-      <description>This is an example of RMarkdown.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shaye Hallee - DACSS 601 HW01</title>
-      <dc:creator>Shaye Hallee</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01</link>
-      <description>Post for HW01 for DACSS 601.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sasi Tansaraviput HW1</title>
-      <dc:creator>Sasi Tansaraviput</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnoutsnake860945</link>
-      <description>Test for RPubs DACSS601</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnoutsnake860945</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -104,11 +114,11 @@
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HW1</title>
-      <dc:creator>Rahul Gundeti</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulghw1retry</link>
-      <description>Retry</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulghw1retry</guid>
+      <title>HW1-ThirdTry</title>
+      <dc:creator>Jason OConnell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum859557</link>
+      <description>HW1-ThirdTry</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum859557</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -120,19 +130,11 @@
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HW1-ThirdTry</title>
-      <dc:creator>Jason OConnell</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum859557</link>
-      <description>HW1-ThirdTry</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum859557</guid>
-      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Henry Nguyen, HW1</title>
-      <dc:creator>Henry Nguyen</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp860386</link>
-      <description>rpubs test for HW1</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp860386</guid>
+      <title>HW1</title>
+      <dc:creator>Rahul Gundeti</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulghw1retry</link>
+      <description>Retry</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulghw1retry</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -153,21 +155,35 @@
     </item>
     <item>
       <title>HW1</title>
-      <dc:creator>Niharika Pola</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660</link>
-      <description>This is an example of RMarkdown</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660</guid>
+      <dc:creator>Thomas Wilson</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3860290</link>
+      <description>HW1 - Practice with RPubs</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3860290</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomniharika861660/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
-      <title>Distill Test 2</title>
-      <dc:creator>Justin Meade</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931</link>
-      <description>Distill test; take 2</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931</guid>
+      <title>Shaye Hallee - DACSS 601 HW01</title>
+      <dc:creator>Shaye Hallee</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01</link>
+      <description>Post for HW01 for DACSS 601.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01</guid>
       <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscommeade68861931/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Katie Popiela</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/hw1</link>
+      <description>DACSS 603</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/hw1</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sasi Tansaraviput HW1</title>
+      <dc:creator>Sasi Tansaraviput</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/sasi-tansaraviput-hw1</link>
+      <description>Test for RPubs DACSS601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/sasi-tansaraviput-hw1</guid>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Welcome to DACSS 601</title>
