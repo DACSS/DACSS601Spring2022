@@ -1,5 +1,336 @@
 [
   {
+    "path": "posts/httpsrpubscomtcwilso3860290/",
+    "title": "HW1",
+    "description": "HW1 - Practice with RPubs",
+    "author": [
+      {
+        "name": "Thomas Wilson",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\n#RPubs practice\nAdd a new chunk by clicking the Insert Chunk button on the toolbar or by pressing Cmd+Option+I.\nWhen you save the notebook, an HTML file containing the code and output will be saved alongside it (click the Preview button or press Cmd+Shift+K to preview the HTML file).\nThe preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike Knit, Preview does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:52:59-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httprpubscomsnehalhw/",
+    "title": "DACSS 601: HW1",
+    "description": "Introduction to R",
+    "author": [
+      {
+        "name": "Snehal Prabhu",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\nlibrary(readr)\r\ndata <- read_csv(file=\"C:/Users/sneha/Downloads/railroad_2012_clean_state.csv\")\r\nhead(data)\r\n\r\n\r\n# A tibble: 6 x 2\r\n  state total_employees\r\n  <chr>           <dbl>\r\n1 AE                  2\r\n2 AK                103\r\n3 AL               4257\r\n4 AP                  1\r\n5 AR               3871\r\n6 AZ               3153\r\n\r\n\r\n\r\ncolnames(data)\r\n\r\n\r\n[1] \"state\"           \"total_employees\"\r\n\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:05-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomhmuleyumass861476/",
+    "title": "Mulveyhw1",
+    "description": "try #2",
+    "author": [
+      {
+        "name": "Henry Mulvey",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\r\n\r\n\r\nsummary(cars)\r\n\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\r\n\r\n\r\n\r\n",
+    "preview": "posts/httpsrpubscomhmuleyumass861476/distill-preview.png",
+    "last_modified": "2022-02-03T21:53:09-05:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/httprpubscomamerleaux861483/",
+    "title": "HW1",
+    "description": "third attempt :)",
+    "author": [
+      {
+        "name": "April Merleaux",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:12-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomjnfarrell211861485/",
+    "title": "HW1",
+    "description": "HW 1 Resubmission",
+    "author": [
+      {
+        "name": "Joseph Farrell",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:15-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsdamionperrygithubiodcss601postswelcome/",
+    "title": "Homework 1",
+    "description": "Pilot post for developing a blog through R via distill for DCSS601",
+    "author": [
+      {
+        "name": "Damion Perry",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\nHW1\nHere is some text.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:22-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomethancampbell860941/",
+    "title": "EthanCampbellHW1",
+    "description": "First Assignment for DACSS.",
+    "author": [
+      {
+        "name": "Ethan Campbell",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\nBasic Visualization\r\nHere we visulize the data set MPG and look into tank size and mpg on the hwy.\r\n\r\n\r\nggplot(data = mpg) +\r\n  geom_point(mapping = aes(x = displ, y = hwy))\r\n\r\n\r\n\r\n\r\nHere we start using a second aes function. (Size and Color)\r\n\r\n\r\nggplot(data = mpg) +\r\n  geom_point(mapping = aes(x = displ, y = hwy, size = cty, color = hwy))\r\n\r\n\r\n\r\n\r\nAdding and removing the legend. Change show.legend to False to turn it off.\r\n\r\n\r\nggplot(data = mpg) +\r\n  geom_smooth(mapping = aes(x = displ, y = hwy, color = drv),\r\n    show.legend = TRUE)\r\n\r\n\r\n\r\n\r\nHere is the combination of the above sets.\r\n\r\n\r\nggplot(data = mpg) + \r\n  geom_point(mapping = aes(x = displ, y = hwy, color = drv)) +\r\n  geom_smooth(mapping = aes(x = displ, y = hwy, linetype = drv, color = drv),\r\n              show.legend = TRUE\r\n              )\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/httpsrpubscomethancampbell860941/distill-preview.png",
+    "last_modified": "2022-02-03T21:53:25-05:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/httpsrpubscomenoh860308/",
+    "title": "HW1",
+    "description": "This is an example of RMarkdown.",
+    "author": [
+      {
+        "name": "Eunsol Noh",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:28-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01/",
+    "title": "Shaye Hallee - DACSS 601 HW01",
+    "description": "Post for HW01 for DACSS 601.",
+    "author": [
+      {
+        "name": "Shaye Hallee",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:31-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httprpubscomsnoutsnake860945/",
+    "title": "Sasi Tansaraviput HW1",
+    "description": "Test for RPubs DACSS601",
+    "author": [
+      {
+        "name": "Sasi Tansaraviput",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:34-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscommanikanta860644/",
+    "title": "HW1",
+    "description": "Learning R",
+    "author": [
+      {
+        "name": "Mani kanta Gogula",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:37-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomrahulghw1retry/",
+    "title": "HW1",
+    "description": "Retry",
+    "author": [
+      {
+        "name": "Rahul Gundeti",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:40-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomrahulg861591/",
+    "title": "HW1",
+    "description": "Retry",
+    "author": [
+      {
+        "name": "Rahul Gundeti",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:44-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomnorthonum859557/",
+    "title": "HW1-ThirdTry",
+    "description": "HW1-ThirdTry",
+    "author": [
+      {
+        "name": "Jason OConnell",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:46-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomhenryfnp860386/",
+    "title": "Henry Nguyen, HW1",
+    "description": "rpubs test for HW1",
+    "author": [
+      {
+        "name": "Henry Nguyen",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:52-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomsshelke861618/",
+    "title": "HW1 Shruti Shelke",
+    "description": "This is DACSS601 HW1",
+    "author": [
+      {
+        "name": "Shruti Shelke",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:55-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httpsrpubscomtbartelloni860564/",
+    "title": "Tory Bartelloni HW1 - Test Distill Article",
+    "description": "How to complete the first homework assignment of the course.",
+    "author": [
+      {
+        "name": "Tory Bartelloni",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\nPublish and post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2022-02-03T21:53:58-05:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/httprpubscomniharika861660/",
+    "title": "HW1",
+    "description": "This is an example of RMarkdown",
+    "author": [
+      {
+        "name": "Niharika Pola",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\nThis is an example of calculating Speed from given data of distance and time and generating the speed Graph\r\n\r\n\r\ndistance<-c(24,78,564,55,600)\r\ntime<-c(3,12,90,10,100)\r\nspeed<-distance/time\r\nspeed\r\n\r\n\r\n[1] 8.000000 6.500000 6.266667 5.500000 6.000000\r\n\r\nbarplot(speed, main='Speed Graph in kms/hr',xlab='distance in kms',ylab='time in hours')\r\n\r\n\r\n\r\n\r\n##Thank You\r\n\r\n\r\n\r\n",
+    "preview": "posts/httprpubscomniharika861660/distill-preview.png",
+    "last_modified": "2022-02-03T21:54:02-05:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
+    "path": "posts/httprpubscommeade68861931/",
+    "title": "Distill Test 2",
+    "description": "Distill test; take 2",
+    "author": [
+      {
+        "name": "Justin Meade",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-03",
+    "categories": [],
+    "contents": "\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\r\n\r\n\r\nsummary(cars)\r\n\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\r\n\r\n\r\n\r\n",
+    "preview": "posts/httprpubscommeade68861931/distill-preview.png",
+    "last_modified": "2022-02-03T21:54:06-05:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to DACSS 601",
     "description": "Welcome to DACSS 601: Foundations of Data Science. We hope you enjoy \nour student projects.",

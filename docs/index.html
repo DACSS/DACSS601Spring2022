@@ -2366,7 +2366,7 @@ function init_posts_list() {
     var src = $(img).attr('data-src');
     if (src) {
       $(img).attr('src', src);
-      $(img).load(function() {
+      $(img).on("load", function() {
         img.removeAttribute('data-src');
       });
     }
@@ -2412,6 +2412,7 @@ function init_posts_list() {
 
       // mark posts that match the category visible
       var page_category = window.location.hash.replace(/^#category:/, "");
+      page_category = decodeURIComponent(page_category)
       var posts = $('.post-metadata').map(function(idx, script) {
         var metadata = $.parseJSON($(script).html());
         var post = null;
@@ -2427,7 +2428,7 @@ function init_posts_list() {
       set_posts_visible(posts, true);
 
       // mark the hash active
-      $('.categories li>a[href="' + window.location.hash + '"]').addClass('active');
+      $('.categories li>a[href="' + decodeURIComponent(window.location.hash) + '"]').addClass('active');
 
       // update the list_caption
       var list_caption = $('.posts-list-caption');
@@ -2490,6 +2491,329 @@ function init_posts_list() {
 <div class="posts-container posts-with-sidebar posts-apply-limit l-screen-inset">
 <div class="posts-list">
 <h1 class="posts-list-caption" data-caption="Student Submissions">Student Submissions</h1>
+<a href="posts/httpsrpubscomtcwilso3860290/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Thomas Wilson</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>HW1 - Practice with RPubs</p>
+</div>
+</a>
+<a href="posts/httprpubscomsnehalhw/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Snehal Prabhu</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>DACSS 601: HW1</h2>
+<div class="dt-tags"></div>
+<p>Introduction to R</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomhmuleyumass861476/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Henry Mulvey</div>
+</div>
+</div>
+<div class="thumbnail">
+<img src="posts/httpsrpubscomhmuleyumass861476/distill-preview.png"/>
+</div>
+<div class="description">
+<h2>Mulveyhw1</h2>
+<div class="dt-tags"></div>
+<p>try #2</p>
+</div>
+</a>
+<a href="posts/httprpubscomamerleaux861483/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">April Merleaux</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>third attempt :)</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomjnfarrell211861485/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Joseph Farrell</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>HW 1 Resubmission</p>
+</div>
+</a>
+<a href="posts/httpsdamionperrygithubiodcss601postswelcome/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Damion Perry</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Homework 1</h2>
+<div class="dt-tags"></div>
+<p>Pilot post for developing a blog through R via distill for DCSS601</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomethancampbell860941/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Ethan Campbell</div>
+</div>
+</div>
+<div class="thumbnail">
+<img data-src="posts/httpsrpubscomethancampbell860941/distill-preview.png"/>
+</div>
+<div class="description">
+<h2>EthanCampbellHW1</h2>
+<div class="dt-tags"></div>
+<p>First Assignment for DACSS.</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomenoh860308/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Eunsol Noh</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>This is an example of RMarkdown.</p>
+</div>
+</a>
+<a href="posts/httpsshayehalleegithubiocoursework2022-01-30-dacss-601-hw01/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Shaye Hallee</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Shaye Hallee - DACSS 601 HW01</h2>
+<div class="dt-tags"></div>
+<p>Post for HW01 for DACSS 601.</p>
+</div>
+</a>
+<a href="posts/httprpubscomsnoutsnake860945/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Sasi Tansaraviput</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Sasi Tansaraviput HW1</h2>
+<div class="dt-tags"></div>
+<p>Test for RPubs DACSS601</p>
+</div>
+</a>
+<a href="posts/httpsrpubscommanikanta860644/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Mani kanta Gogula</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>Learning R</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomrahulghw1retry/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Rahul Gundeti</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>Retry</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomrahulg861591/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Rahul Gundeti</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>Retry</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomnorthonum859557/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Jason OConnell</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1-ThirdTry</h2>
+<div class="dt-tags"></div>
+<p>HW1-ThirdTry</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomhenryfnp860386/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Henry Nguyen</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Henry Nguyen, HW1</h2>
+<div class="dt-tags"></div>
+<p>rpubs test for HW1</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomsshelke861618/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Shruti Shelke</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>HW1 Shruti Shelke</h2>
+<div class="dt-tags"></div>
+<p>This is DACSS601 HW1</p>
+</div>
+</a>
+<a href="posts/httpsrpubscomtbartelloni860564/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Tory Bartelloni</div>
+</div>
+</div>
+<div class="thumbnail">
+<img/>
+</div>
+<div class="description">
+<h2>Tory Bartelloni HW1 - Test Distill Article</h2>
+<div class="dt-tags"></div>
+<p>How to complete the first homework assignment of the course.</p>
+</div>
+</a>
+<a href="posts/httprpubscomniharika861660/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Niharika Pola</div>
+</div>
+</div>
+<div class="thumbnail">
+<img data-src="posts/httprpubscomniharika861660/distill-preview.png"/>
+</div>
+<div class="description">
+<h2>HW1</h2>
+<div class="dt-tags"></div>
+<p>This is an example of RMarkdown</p>
+</div>
+</a>
+<a href="posts/httprpubscommeade68861931/" class="post-preview">
+<script class="post-metadata" type="text/json">{"categories":[]}</script>
+<div class="metadata">
+<div class="publishedDate">Feb. 3, 2022</div>
+<div class="dt-authors">
+<div class="dt-author">Justin Meade</div>
+</div>
+</div>
+<div class="thumbnail">
+<img data-src="posts/httprpubscommeade68861931/distill-preview.png"/>
+</div>
+<div class="description">
+<h2>Distill Test 2</h2>
+<div class="dt-tags"></div>
+<p>Distill test; take 2</p>
+</div>
+</a>
 <a href="posts/welcome/" class="post-preview">
 <script class="post-metadata" type="text/json">{"categories":["welcome"]}</script>
 <div class="metadata">
@@ -2498,7 +2822,9 @@ function init_posts_list() {
 <div class="dt-author">Meredith Rolfe</div>
 </div>
 </div>
-<div class="thumbnail"></div>
+<div class="thumbnail">
+<img/>
+</div>
 <div class="description">
 <h2>Welcome to DACSS 601</h2>
 <div class="dt-tags">
@@ -2515,7 +2841,7 @@ our student projects.</p>
 <ul>
 <li>
 <a href="#category:articles">articles</a>
-<span class="category-count">(1)</span>
+<span class="category-count">(20)</span>
 </li>
 <li>
 <a href="#category:welcome">welcome</a>
