@@ -14,6 +14,30 @@
     <generator>Distill</generator>
     <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
     <item>
+      <title>HW1</title>
+      <dc:creator>Ian Kennedy</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw1</link>
+      <description>1st HW assignment for DACSS 601.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw1</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DACSS 601 HW2</title>
+      <dc:creator>Snehal Prabhu</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw2</link>
+      <description>Reading in Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw2</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework 2</title>
+      <dc:creator>Damion Perry</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601posts</link>
+      <description>Reading in .xls data &amp; doing a bit of tidying!</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601posts</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>HW1 - Attempt #2</title>
       <dc:creator>Apoorva Hungund</dc:creator>
       <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomahungundaphhw12</link>
@@ -23,34 +47,27 @@
     </item>
     <item>
       <title>HW1</title>
-      <dc:creator>Laura Collazo</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw1take2</link>
-      <description>Take 2 :)</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw1take2</guid>
+      <dc:creator>Ari Markowitz</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1</link>
+      <description>Already messed up the first homework</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW2</title>
+      <dc:creator>Ari Markowitz</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw2</link>
+      <description>This is Homework 2! Pulling JSON data from USDA food data website</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw2</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Homework2_Wilson</title>
-      <dc:creator>Thomas Wilson</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw2dacss601</link>
-      <description>HW2 - Reading in data and dplyr practice</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw2dacss601</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW1</title>
-      <dc:creator>Ian Kennedy</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw1</link>
-      <description>1st HW assignment for DACSS 601.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw1</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>KMuhammad HW1</title>
-      <dc:creator>Kalimah Muhammad</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkmuhamma860269</link>
-      <description>Data Science Fundamentals - Homework 1</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkmuhamma860269</guid>
+      <title>HW2</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1862605</link>
+      <description>Data set - hotel- Includes numeric data regarding cancellations, arrival times, dates (MO, year, day), and cancellations.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1862605</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -63,12 +80,77 @@
     </item>
     <item>
       <title>HW1</title>
-      <dc:creator>Ari Markowitz</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1</link>
-      <description>Already messed up the first homework</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1</guid>
+      <dc:creator>Eunsol Noh</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</link>
+      <description>This is an example of RMarkdown.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw1/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Ethan Campbell HW2</title>
+      <dc:creator>Ethan campbell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073</link>
+      <description>Importing clean dataset into R.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Alexis Gamez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654862790</link>
+      <description>Rmd Resubmission</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654862790</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW 2</title>
+      <dc:creator>Alexis Gamez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654863847</link>
+      <description>Reading in &amp; tidying data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654863847</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework 2</title>
+      <dc:creator>Joseph Farrell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086</link>
+      <description>Reading in and Wrangling Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Kimble HW1, Try 2</title>
+      <dc:creator>Karen Kimble</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkkimble864029</link>
+      <description>This is the second try for 601 HW 1</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkkimble864029</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>KMuhammad HW1</title>
+      <dc:creator>Kalimah Muhammad</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkmuhamma860269</link>
+      <description>Data Science Fundamentals - Homework 1</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkmuhamma860269</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Laura Collazo</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw1take2</link>
+      <description>Take 2 :)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw1take2</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW2</title>
+      <dc:creator>Laura Collazo</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw2</link>
+      <description>This assignment shows an example of reading in a dataset, explaining the variables in the dataset and then demonstrating at least 2 basic data-wrangling operations.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw2</guid>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Test Post - Take 3</title>
@@ -87,11 +169,11 @@
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>HW1</title>
-      <dc:creator>Eunsol Noh</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</link>
-      <description>This is an example of RMarkdown.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh860308</guid>
+      <title>HW2</title>
+      <dc:creator>Rahul Gundeti</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulgdacss601hw2</link>
+      <description>Reading in Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulgdacss601hw2</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -100,14 +182,6 @@
       <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531862527</link>
       <description>DACSS HW1</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531862527</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW2</title>
-      <dc:creator>Nora Jones</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1862605</link>
-      <description>Data set - hotel- Includes numeric data regarding cancellations, arrival times, dates (MO, year, day), and cancellations.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1862605</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
@@ -120,85 +194,11 @@
       <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtbartelloni862736/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
-      <title>HW1</title>
-      <dc:creator>Alexis Gamez</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654862790</link>
-      <description>Rmd Resubmission</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654862790</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>DACSS 601 HW2</title>
-      <dc:creator>Snehal Prabhu</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw2</link>
-      <description>Reading in Data</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw2</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW2</title>
-      <dc:creator>Rahul Gundeti</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulgdacss601hw2</link>
-      <description>Reading in Data</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrahulgdacss601hw2</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW2</title>
-      <dc:creator>Ari Markowitz</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw2</link>
-      <description>This is Homework 2! Pulling JSON data from USDA food data website</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw2</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW 2</title>
-      <dc:creator>Alexis Gamez</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654863847</link>
-      <description>Reading in &amp; tidying data</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomgamez654863847</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW2</title>
-      <dc:creator>Laura Collazo</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw2</link>
-      <description>This assignment shows an example of reading in a dataset, explaining the variables in the dataset and then demonstrating at least 2 basic data-wrangling operations.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw2</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kimble HW1, Try 2</title>
-      <dc:creator>Karen Kimble</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkkimble864029</link>
-      <description>This is the second try for 601 HW 1</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkkimble864029</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ethan Campbell HW2</title>
-      <dc:creator>Ethan campbell</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073</link>
-      <description>Importing clean dataset into R.</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell864073/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Homework 2</title>
-      <dc:creator>Joseph Farrell</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086</link>
-      <description>Reading in and Wrangling Data</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086</guid>
-      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211864086/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
-    </item>
-    <item>
-      <title>Homework 2</title>
-      <dc:creator>Damion Perry</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601posts</link>
-      <description>Reading in .xls data &amp; doing a bit of tidying!</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsdamionperrygithubiodcss601posts</guid>
+      <title>Homework2_Wilson</title>
+      <dc:creator>Thomas Wilson</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw2dacss601</link>
+      <description>HW2 - Reading in data and dplyr practice</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw2dacss601</guid>
       <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
     </item>
     <item>
