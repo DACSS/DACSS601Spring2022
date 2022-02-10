@@ -1,0 +1,53 @@
+---
+title: "Example Code for Couch DB access"
+description: "An example of using the Sofa package to access CouchDB data."
+author:
+  name: Meredith Rolfe
+  url: {https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program}
+  github: {https://github.com/mrolfe}
+date: "`r Sys.Date()`"
+categories:
+- example code
+- data cleaningoutput:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(sofa)
+library(tidyverse)
+host<-"hammock.media.mit.edu"
+user = "planet"
+pwd = "somaliaplanet"
+```
+
+## Read in from Couch Database
+
+I have set the values needed in the header to ensure privacy, students can DM for info. 
+
+First you create a Cushion object, which is like a database connection. Then you can make queries to the connection. If you don't have it, please install the `sofa` library and load it prior to starting you work.
+
+
+```{r connect}
+ole<-Cushion$new(host = host,
+             port = 2201,
+             user = user,
+             pwd = pwd)
+```
+
+Now we can use the `db_list` command to get a list of available databases, but filter out the empty ones starting `userdb.`
+
+```{r}
+db_list(ole)[!str_starts(db_list(ole), "userdb")]
+
+```
+
+Now you can explore the tables and format of the information provided.  Each of the databases appears to be in json format, so you may need to use tidyjson or jsonlite to go further and figure out the database structure and how to retrieve it.
+
+```{r}
+db_alldocs(ole, "exams")
+db_info(ole, "messges")
+
+```
