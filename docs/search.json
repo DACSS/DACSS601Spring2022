@@ -5,35 +5,35 @@
       "title": "About the Course",
       "author": [],
       "contents": "\nThis is some information about DACSS and the course. Can be prefilled in with something interesting.\nCourse Instructor:\n\n\n\n\n",
-      "last_modified": "2022-02-09T23:31:06-05:00"
+      "last_modified": "2022-02-11T21:17:31-05:00"
     },
     {
       "path": "index.html",
       "title": "Student Submissions",
       "author": [],
-      "contents": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "last_modified": "2022-02-09T23:31:08-05:00"
+      "contents": "\n\n\n\n\nDACSS 601\n\n\nSpring 2022\n\n\n\n\n\n\n\n\n",
+      "last_modified": "2022-02-11T22:20:38-05:00"
     },
     {
       "path": "instructor.html",
       "title": "Meredith Rolfe",
       "author": [],
       "contents": "\n\n          \n          \n          \n          \n          Data Analytics and Computational Social Science\n          \n          \n          About\n          Syllabus\n          Students\n          \n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Meredith Rolfe\n          \n          \n            \n              I am some sort of person, blah blah biography.\n            \n            \n              I am some sort of person, blah blah biography.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    \n          \n          \n            \n          \n          \n          \n            \n              \n              \n              \n              \n              \n            \n          \n          \n          \n\n    \n  ",
-      "last_modified": "2022-02-09T23:31:12-05:00"
+      "last_modified": "2022-02-11T21:17:31-05:00"
     },
     {
       "path": "students.html",
       "title": "Students",
       "author": [],
       "contents": "\n\n\n\nMax\n\n\n\n\n",
-      "last_modified": "2022-02-09T23:31:13-05:00"
+      "last_modified": "2022-02-11T21:17:31-05:00"
     },
     {
       "path": "syllabus.html",
       "title": "Course Syllabus",
       "author": [],
       "contents": "\nEdit this page with the course syllabus and/or other information. Feel free to delete the example file below as well.\n(Note that when knitted, it might display as ‘Couldn’t load plugin’. Simply click ‘Open in Browser’ at the top left side of the screen to view your page looks like.)\nSyllabus:\n\n\n\n\n\n",
-      "last_modified": "2022-02-09T23:31:17-05:00"
+      "last_modified": "2022-02-11T21:17:31-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

@@ -4,15 +4,18 @@ description: |
   I'm sharing some example code for pivot_longer using the eggs data. Enjoy!
 author:
 - name: Meredith Rolfe
-  url: {https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program}
-  github: {https://github.com/mrolfe}
-date: "`r Sys.Date()`"
+  url:
+    https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program: ~
+  github:
+    https://github.com/mrolfe: ~
+date: '`r Sys.Date()`'
 categories:
 - example code
 - data cleaning
 output:
   distill::distill_article:
     self_contained: no
+draft: yes
 ---
 
 

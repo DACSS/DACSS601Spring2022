@@ -12,7 +12,17 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Example Code for Pivot Longer</title>
+      <dc:creator>Meredith Rolfe</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/2022-02-02-example-pivot-longer</link>
+      <description>I'm sharing some example code for pivot_longer using the eggs data. Enjoy!</description>
+      <category>example code</category>
+      <category>data cleaning</category>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/2022-02-02-example-pivot-longer</guid>
+      <pubDate>Fri, 11 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HW1</title>
       <dc:creator>Ian Kennedy</dc:creator>
