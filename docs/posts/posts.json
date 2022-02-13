@@ -261,6 +261,25 @@
     "input_file": {}
   },
   {
+    "path": "posts/httpsrpubscomhmuleyumass865375/",
+    "title": "HW2blog",
+    "description": "hw2",
+    "author": [
+      {
+        "name": "Henry Mulvey",
+        "url": {}
+      }
+    ],
+    "date": "2022-02-13",
+    "categories": [],
+    "contents": "\r\nHW2 try 2\r\nlibrary(“tidyverse”) library(“dplyr”)\r\nlibrary(readxl) MBTA_bus_all2 <- read_excel(“MBTA_bus_all2.xlsx”) View(MBTA_bus_all2)\r\nmode, type of transit vehicle (bus), numeral\r\nseason, text\r\nroute_id and route_name, number of transit route\r\nstop_sequence, not sure, numeral\r\ndirection_id, not sure, numeral\r\nday_type_id, numerical representation of day_type_name, numeral\r\nday_type_nam, weekday or weekend, text\r\ntime_period_id, not sure, text\r\nstop_name, name of transit stop, text\r\nstop_id, numerical id of transit stop, numeral\r\naverage_ons, average of boardings at that transit stop, numeral\r\naverage_offs, average of people getting off at that transit stop, numeral\r\naverage_load, I think average percentage of bus occupancy at that transit stop, percentage\r\nnum_trips, I think number of trips that day that serviced that stop, numeral\r\nrdm_all <- filter(MBTA_bus_all2, route_name > 13 & route_name < 31) view(rdm_all)\r\nrdm_all isolates all of the bus stops in the Boston neighborhoods of Roxbury, Dorchester, and Mattapan\r\npopular_stops_rdm <- arrange(rdm_all, desc(average_ons)) view(popular_stops_rdm)\r\npopular_stops_rdm ranks all of the stops in rdm_all by the average number of people that get on the bus at that stop\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\r\n\r\n\r\nsummary(cars)\r\n\r\n\r\n     speed           dist       \r\n Min.   : 4.0   Min.   :  2.00  \r\n 1st Qu.:12.0   1st Qu.: 26.00  \r\n Median :15.0   Median : 36.00  \r\n Mean   :15.4   Mean   : 42.98  \r\n 3rd Qu.:19.0   3rd Qu.: 56.00  \r\n Max.   :25.0   Max.   :120.00  \r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\n\r\n\r\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\r\n\r\n\r\n\r\n",
+    "preview": "posts/httpsrpubscomhmuleyumass865375/distill-preview.png",
+    "last_modified": "2022-02-13T16:08:57-05:00",
+    "input_file": {},
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/2022-02-02-example-pivot-longer/",
     "title": "Example Code for Pivot Longer",
     "description": "I'm sharing some example code for pivot_longer using the eggs data. Enjoy!",
