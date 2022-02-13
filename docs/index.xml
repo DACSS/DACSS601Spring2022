@@ -12,7 +12,130 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>HW2 Merleaux</title>
+      <dc:creator>April Merleaux</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux864543</link>
+      <description>Reading data in to R studio.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux864543</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>Anne Etienne</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomanneetienne864237</link>
+      <description>This is the first homework but im so late i am catching up sorry</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomanneetienne864237</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW 1 601</title>
+      <dc:creator>Erica Laidler</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomericalaidler864561</link>
+      <description>RPub submission</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomericalaidler864561</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW2</title>
+      <dc:creator>Apoorva Hungund</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomahungundaphhw2</link>
+      <description>DACSS 601 Data Science Fundamentals - Homework 2</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomahungundaphhw2</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bryn Kruzlic HW1</title>
+      <dc:creator>Bryn Kruzlic</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombkruzlichw1attempt4</link>
+      <description>This is the first homework for DACSS601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombkruzlichw1attempt4</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kruzlic HW2 Try 1</title>
+      <dc:creator>Bryn Kruzlic</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombkruzlichw2attempt1</link>
+      <description>DACSS 601 Homework 2 Example</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombkruzlichw2attempt1</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Henry Nguyen HW2</title>
+      <dc:creator>Henry Nguyen</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp865058</link>
+      <description>This is Henry's homework number 2.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp865058</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW2_IanKennedy</title>
+      <dc:creator>Ian Kennedy</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomikennedy040hw2</link>
+      <description>HW2 for DACSS 601. There are four columns of data in the selected spreadsheet. Territory (string), resp (string), count (numerical), and percent (numerical). I also created a new column labeled 'High Count' (string) and used the 'select' tool to show only the following columns: territory, count, &amp; High_Count</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomikennedy040hw2</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW3_IanKennedy</title>
+      <dc:creator>Ian Kennedy</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomikennedy040hw3</link>
+      <description>HW3 for DACSS 601.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomikennedy040hw3</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework 2, Data Import</title>
+      <dc:creator>Justin Meade</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommeade68863819</link>
+      <description>Second Assignment</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommeade68863819</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework 1</title>
+      <dc:creator>Roberto Melendez</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrmelendez864255</link>
+      <description>R Pub Test</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrmelendez864255</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomrmelendez864255/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework3_Wilson</title>
+      <dc:creator>Thomas Wilson</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw3wilson</link>
+      <description>HW3 - Data Wrangling</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw3wilson</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw3wilson/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW1</title>
+      <dc:creator>TLamkin</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin860400</link>
+      <description>General Markdown File for Distill</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin860400</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin860400/distill-preview.png" medium="image" type="image/png" width="1148" height="375"/>
+    </item>
+    <item>
+      <title>HW2</title>
+      <dc:creator>TLamkin</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin862725</link>
+      <description>reading in 2 clean data sets and one untidy dataset</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin862725</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Shaye Hallee - DACSS 601 HW02</title>
+      <dc:creator>Shaye Hallee</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-02-12-dacss-601-hw02</link>
+      <description>Reading in ACS 2019 disability population estimates.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-02-12-dacss-601-hw02</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Example Code for Pivot Longer</title>
       <dc:creator>Meredith Rolfe</dc:creator>
