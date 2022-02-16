@@ -12,7 +12,51 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 13 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>HW4_IanKennedy</title>
+      <dc:creator>Ian Kennedy</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw4</link>
+      <description>HW4 for DACSS 601.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw4</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomikennedy040hw4/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW3</title>
+      <dc:creator>Apoorva Hungund</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomahungundaphhw3</link>
+      <description>DACSS 601 Data Science Fundamentals - Homework 3</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomahungundaphhw3</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework3</title>
+      <dc:creator>Joseph Farrell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211866926</link>
+      <description>NYC Real Estate Sales Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211866926</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211866926/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW_2_AustralianMarriages</title>
+      <dc:creator>Lenna Garibian</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlenna717866657</link>
+      <description>Wrangling Clean Data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlenna717866657</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlenna717866657/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Homework 3</title>
+      <dc:creator>Justin Meade</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommeade68867027</link>
+      <description>Homework 3, DACSS 601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommeade68867027</guid>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommeade68867027/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
     <item>
       <title>HW2 Merleaux</title>
       <dc:creator>April Merleaux</dc:creator>
@@ -68,6 +112,15 @@
       <description>This is Henry's homework number 2.</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhenryfnp865058</guid>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW2blog</title>
+      <dc:creator>Henry Mulvey</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375</link>
+      <description>hw2</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375</guid>
+      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>HW2_IanKennedy</title>
@@ -135,15 +188,6 @@
       <description>Reading in ACS 2019 disability population estimates.</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/httpsshayehalleegithubiocoursework2022-02-12-dacss-601-hw02</guid>
       <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>HW2blog</title>
-      <dc:creator>Henry Mulvey</dc:creator>
-      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375</link>
-      <description>hw2</description>
-      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375</guid>
-      <pubDate>Sun, 13 Feb 2022 00:00:00 +0000</pubDate>
-      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomhmuleyumass865375/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
     </item>
     <item>
       <title>Example Code for Pivot Longer</title>
