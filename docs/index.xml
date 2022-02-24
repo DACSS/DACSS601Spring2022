@@ -12,7 +12,107 @@
       <link>https://github.com/DACSS/dacss_course_website</link>
     </image>
     <generator>Distill</generator>
-    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>HW3</title>
+      <dc:creator>Laura Collazo</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw3</link>
+      <description>This assignment identifies the dataset I will be using for the final project, reads it into R, cleans it, and identifies potential research questions it can help me answer.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw3</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MADT_Homework 2</title>
+      <dc:creator>Meredith Derian-Toth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacsshw2mdt</link>
+      <description>This is homework 2 for DACSS601</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacsshw2mdt</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DACSS 601 HW4</title>
+      <dc:creator>Snehal Prabhu</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw4</link>
+      <description>Data Visualization</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw4</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw4/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Wrangling data</title>
+      <dc:creator>Eris Dodds</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1869077</link>
+      <description>Below is my attempt to organize a dataset on employment rates across different states. As will be seen below, I attempt to organize the data but isolating the totals, and another by removing the totals rows from the data set. I was able to do some calulations (but was having errors with others).</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1869077</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MADT_Homework 3</title>
+      <dc:creator>Meredith Derian-Toth</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw2mdt</link>
+      <description>Identifying variables in WA school accountability data</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw2mdt</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Homework2</title>
+      <dc:creator>Eunsol Noh</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh869331</link>
+      <description>Data Import - With eggs_tidy.xlsx (clean dataset)</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh869331</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW4</title>
+      <dc:creator>TLamkin</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin869562</link>
+      <description>Statistical Review and Visualization of School Compensations Data from 20218-19</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin869562</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin869562/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW4</title>
+      <dc:creator>Ari Markowitz</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw4</link>
+      <description>Identifying data for Final Project, and Generating Visualuals</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw4</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Roy Yoon HW #2</title>
+      <dc:creator>Roy Yoon</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531869698</link>
+      <description>Read in a dataset</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531869698</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HW4</title>
+      <dc:creator>Laura Collazo</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw4</link>
+      <description>This assignment includes descriptive statistics and visualizations for the variables I've selected for my final project.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw4</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw4/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>HW4 - ATP Tennis Statiistics</title>
+      <dc:creator>Jason O'Connell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum869986</link>
+      <description>Expanded analysis of match statitistics spanning multiple decades of ATP Professional Tennis seasons.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum869986</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      <media:content url="https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum869986/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Ethan Campbell HW3</title>
+      <dc:creator>Ethan Campbell</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell870024</link>
+      <description>Fort Worth Climate data.</description>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell870024</guid>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>HW3</title>
       <dc:creator>Ari Markowitz</dc:creator>
