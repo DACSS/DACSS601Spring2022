@@ -827,5 +827,16 @@ our student projects.</description>
       <guid>https://github.com/DACSS/dacss_course_website/posts/welcome</guid>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
     </item>
+    <item>
+      <title>Using A Function to Read Active Duty Marital Data</title>
+      <dc:creator>Sean Conway and Meredith Rolfe</dc:creator>
+      <link>https://github.com/DACSS/dacss_course_website/posts/2022-03-03-example-multiple-sheets</link>
+      <description>This is the example code to use a new custom function to read in multiple sheets of data about Active Duty members of the military and marital status.</description>
+      <category>example</category>
+      <category>cleaning data</category>
+      <category>programming functions</category>
+      <guid>https://github.com/DACSS/dacss_course_website/posts/2022-03-03-example-multiple-sheets</guid>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+    </item>
   </channel>
 </rss>

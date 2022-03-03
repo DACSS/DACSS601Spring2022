@@ -48,6 +48,6 @@ Now you can explore the tables and format of the information provided.  Each of 
 
 ```{r}
 db_alldocs(ole, "exams")
-db_info(ole, "messges")
+db_info(ole, "messages")
 
 ```
