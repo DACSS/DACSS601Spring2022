@@ -18,7 +18,7 @@
  <!--radix_placeholder_import_source-->
 
 <script type="text/json" id="radix-import-source">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["url","sha1"]}},"value":[{"type":"character","attributes":{},"value":["https://rpubs.com/Manikanta/871555"]},{"type":"character","attributes":{},"value":["8bc83a4a72553ad0f0dca53e9fb25dcc34a201dd"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["url","sha1"]}},"value":[{"type":"character","attributes":{},"value":["https://rpubs.com/Manikanta/871555"]},{"type":"character","attributes":{},"value":["63d355cb8544c56f9ba1d859372eb477e11e219b"]}]}
 </script>
 <!--/radix_placeholder_import_source-->
 
@@ -97,8 +97,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--  https://schema.org/Article -->
-  <meta property="article:published" itemprop="datePublished" content="2022-02-28" />
-  <meta property="article:created" itemprop="dateCreated" content="2022-02-28" />
+  <meta property="article:published" itemprop="datePublished" content="2022-03-02" />
+  <meta property="article:created" itemprop="dateCreated" content="2022-03-02" />
   <meta name="article:author" content="MANI KANTA GOGULA" />
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
@@ -116,7 +116,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
 <script type="text/json" id="radix-rmarkdown-metadata">
-{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["HW_3"]},{"type":"character","attributes":{},"value":["Identifying the dataset for final project"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["MANI KANTA GOGULA"]}]}]},{"type":"character","attributes":{},"value":["03-02-2022"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
+{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","author","date","output"]}},"value":[{"type":"character","attributes":{},"value":["HW_3"]},{"type":"character","attributes":{},"value":["Identifying the dataset for final project"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["name"]}},"value":[{"type":"character","attributes":{},"value":["MANI KANTA GOGULA"]}]}]},{"type":"character","attributes":{},"value":["03-06-2022"]},{"type":"character","attributes":{},"value":["distill::distill_article"]}]}
 </script>
 <!--/radix_placeholder_rmarkdown_metadata-->
   
@@ -1463,7 +1463,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"HW_3","description":"Identifying the dataset for final project","authors":[{"author":"MANI KANTA GOGULA","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2022-03-02T00:00:00.000-05:00"}
+{"title":"HW_3","description":"Identifying the dataset for final project","authors":[{"author":"MANI KANTA GOGULA","authorURL":"#","affiliation":"&nbsp;","affiliationURL":"#","orcidID":""}],"publishedDate":"2022-03-06T00:00:00.000-05:00"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -1483,21 +1483,33 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   
   MANI KANTA GOGULA
   
-<br />2022-02-28
+<br />2022-03-02
 </div>
 
 <div class="d-article">
 <p>#1. Identify the dataset you will be using for the final project</p>
 <p>I will be using the data set of hotel bookings from the course dataset .</p>
 <div class="layout-chunk" data-layout="l-body">
-
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://tidyverse.tidyverse.org">tidyverse</a></span><span class="op">)</span>
+<span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org">dplyr</a></span><span class="op">)</span>
+</code></pre>
+</div>
 </div>
 <p>#Importing the dataset</p>
 <div class="layout-chunk" data-layout="l-body">
-
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="kw"><a href="https://rdrr.io/r/base/library.html">library</a></span><span class="op">(</span><span class="va"><a href="https://readr.tidyverse.org">readr</a></span><span class="op">)</span>
+<span class="va">hotel_bookings_</span> <span class="op">&lt;-</span> <span class="fu"><a href="https://readr.tidyverse.org/reference/read_delim.html">read_csv</a></span><span class="op">(</span><span class="st">&quot;hotel_bookings .csv&quot;</span><span class="op">)</span>
+</code></pre>
+</div>
 </div>
 <p>#Preview of the Dataset</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="fu"><a href="https://rdrr.io/r/utils/head.html">head</a></span><span class="op">(</span><span class="va">hotel_bookings_</span><span class="op">)</span>
+</code></pre>
+</div>
 <pre><code># A tibble: 6 x 32
   hotel        is_canceled lead_time arrival_date_ye~ arrival_date_mo~
   &lt;chr&gt;              &lt;dbl&gt;     &lt;dbl&gt;            &lt;dbl&gt; &lt;chr&gt;           
@@ -1517,10 +1529,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <p>#USING THE FUNCTION dim() to get the dimensions of the dataset</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="fu"><a href="https://rdrr.io/r/base/dim.html">dim</a></span><span class="op">(</span><span class="va">hotel_bookings_</span><span class="op">)</span>
+</code></pre>
+</div>
 <pre><code>[1] 119390     32</code></pre>
 </div>
 <p>Selecting the country and is_repeated_guest column from the dataset using select() function to see which country customers repeated</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="fu"><a href="https://dplyr.tidyverse.org/reference/select.html">select</a></span><span class="op">(</span><span class="va">hotel_bookings_</span>,<span class="va">country</span>,<span class="va">is_repeated_guest</span><span class="op">)</span>
+</code></pre>
+</div>
 <pre><code># A tibble: 119,390 x 2
    country is_repeated_guest
    &lt;chr&gt;               &lt;dbl&gt;
@@ -1538,6 +1558,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <p>#Applying filter() function to the datset to see how many customers need car parking space.</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html">filter</a></span><span class="op">(</span><span class="va">hotel_bookings_</span>,<span class="va">required_car_parking_spaces</span><span class="op">==</span><span class="fl">1</span><span class="op">)</span>
+</code></pre>
+</div>
 <pre><code># A tibble: 7,383 x 32
    hotel       is_canceled lead_time arrival_date_ye~ arrival_date_mo~
    &lt;chr&gt;             &lt;dbl&gt;     &lt;dbl&gt;            &lt;dbl&gt; &lt;chr&gt;           
@@ -1561,6 +1585,10 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 </div>
 <p>#Arranging the datset based on the reservation using arrange() function</p>
 <div class="layout-chunk" data-layout="l-body">
+<div class="sourceCode">
+<pre class="sourceCode r"><code class="sourceCode r"><span class="fu"><a href="https://dplyr.tidyverse.org/reference/arrange.html">arrange</a></span><span class="op">(</span><span class="va">hotel_bookings_</span>,<span class="va">reservation_status_date</span><span class="op">)</span>
+</code></pre>
+</div>
 <pre><code># A tibble: 119,390 x 32
    hotel       is_canceled lead_time arrival_date_ye~ arrival_date_mo~
    &lt;chr&gt;             &lt;dbl&gt;     &lt;dbl&gt;            &lt;dbl&gt; &lt;chr&gt;           

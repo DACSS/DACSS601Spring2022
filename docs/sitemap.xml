@@ -2,59 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/about.html</loc>
-    <lastmod>2022-01-26T19:23:47-05:00</lastmod>
+    <lastmod>2022-01-24T17:00:50-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/</loc>
-    <lastmod>2022-01-26T19:23:47-05:00</lastmod>
+    <lastmod>2022-01-24T17:00:50-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/instructor.html</loc>
-    <lastmod>2022-01-26T19:23:47-05:00</lastmod>
+    <lastmod>2022-01-24T17:04:20-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/students.html</loc>
-    <lastmod>2022-01-26T19:23:47-05:00</lastmod>
+    <lastmod>2022-01-24T17:00:50-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/syllabus.html</loc>
-    <lastmod>2022-01-26T19:23:47-05:00</lastmod>
+    <lastmod>2022-01-24T17:00:50-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1874159/</loc>
+    <lastmod>2022-03-06T19:31:46-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscombkruzlichw3attempt1/</loc>
+    <lastmod>2022-03-06T19:31:37-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell874360/</loc>
+    <lastmod>2022-03-06T19:31:54-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211873035/</loc>
+    <lastmod>2022-03-06T19:31:18-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomkuse873896/</loc>
+    <lastmod>2022-03-06T19:31:33-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommanikanta871555/</loc>
-    <lastmod>2022-03-02T18:33:28-05:00</lastmod>
+    <lastmod>2022-03-06T19:31:12-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommanikanta870802/</loc>
-    <lastmod>2022-03-02T18:33:51-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum874158/</loc>
+    <lastmod>2022-03-06T19:31:41-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtbartelloni872562/</loc>
-    <lastmod>2022-03-02T18:34:00-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtbartelloni873045/</loc>
+    <lastmod>2022-03-06T19:31:26-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw3mdt/</loc>
-    <lastmod>2022-03-02T18:34:04-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw5/</loc>
-    <lastmod>2022-03-02T18:34:09-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin874336/</loc>
+    <lastmod>2022-03-06T19:31:50-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw5/</loc>
     <lastmod>2022-03-02T18:34:14-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211870094/</loc>
-    <lastmod>2022-02-27T23:50:35-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw5/</loc>
+    <lastmod>2022-03-02T18:34:09-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw3/</loc>
-    <lastmod>2022-02-27T23:50:45-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommanikanta870802/</loc>
+    <lastmod>2022-03-02T18:33:51-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw5twilson/</loc>
-    <lastmod>2022-02-27T23:50:53-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw3mdt/</loc>
+    <lastmod>2022-03-02T18:34:04-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtbartelloni872562/</loc>
+    <lastmod>2022-03-02T18:34:00-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httprpubscomamerleaux870762/</loc>
@@ -65,56 +85,68 @@
     <lastmod>2022-02-27T23:51:07-05:00</lastmod>
   </url>
   <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw3/</loc>
+    <lastmod>2022-02-27T23:50:45-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomjnfarrell211870094/</loc>
+    <lastmod>2022-02-27T23:50:35-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnrotondo868619/</loc>
     <lastmod>2022-02-27T23:51:13-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw3/</loc>
-    <lastmod>2022-02-23T19:18:08-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacsshw2mdt/</loc>
-    <lastmod>2022-02-23T19:18:15-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtcwilso3hw5twilson/</loc>
+    <lastmod>2022-02-27T23:50:53-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httprpubscomsnehalhw4/</loc>
     <lastmod>2022-02-23T19:18:20-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1869077/</loc>
-    <lastmod>2022-02-23T19:19:14-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw4/</loc>
+    <lastmod>2022-02-23T19:18:47-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw2mdt/</loc>
-    <lastmod>2022-02-23T19:18:30-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomaristotle1869077/</loc>
+    <lastmod>2022-02-23T19:19:14-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomenoh869331/</loc>
     <lastmod>2022-02-23T19:18:35-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin869562/</loc>
-    <lastmod>2022-02-23T19:18:40-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell870024/</loc>
+    <lastmod>2022-02-23T19:19:10-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw4/</loc>
-    <lastmod>2022-02-23T19:18:47-05:00</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531869698/</loc>
-    <lastmod>2022-02-23T19:18:54-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw3/</loc>
+    <lastmod>2022-02-23T19:18:08-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomlcollazohw4/</loc>
     <lastmod>2022-02-23T19:18:59-05:00</lastmod>
   </url>
   <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacss601hw2mdt/</loc>
+    <lastmod>2022-02-23T19:18:30-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscommderiantothdacsshw2mdt/</loc>
+    <lastmod>2022-02-23T19:18:15-05:00</lastmod>
+  </url>
+  <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomnorthonum869986/</loc>
     <lastmod>2022-02-23T19:19:05-05:00</lastmod>
   </url>
   <url>
-    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomethancampbell870024/</loc>
-    <lastmod>2022-02-23T19:19:10-05:00</lastmod>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomry0531869698/</loc>
+    <lastmod>2022-02-23T19:18:54-05:00</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomtlamkin869562/</loc>
+    <lastmod>2022-02-23T19:18:40-05:00</lastmod>
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/httpsrpubscomamarkowitzhw3/</loc>
@@ -410,6 +442,6 @@
   </url>
   <url>
     <loc>https://github.com/DACSS/dacss_course_website/posts/2022-03-03-example-multiple-sheets/</loc>
-    <lastmod>2022-03-03T09:16:39-05:00</lastmod>
+    <lastmod>2022-03-03T12:55:56-05:00</lastmod>
   </url>
 </urlset>
