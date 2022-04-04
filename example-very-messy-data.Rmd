@@ -1,0 +1,93 @@
+---
+title: "Example Very Messy Data"
+description: |
+  This is the example code to deal with very messy government data, trying to get it into some semblance of tidy format.
+author:
+- name: Meredith Rolfe
+  url: {}
+date: 03-03-2022
+categories:
+- example
+- cleaning data
+- reading data
+- tidy data
+output:
+  distill::distill_article:
+    self_contained: no
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+This is example code for dealing with really incomprehensible government tables that contain multiple aggregations of data in an inconsistent format. The biggest challenge in this dataset is identifying the "cases" (the rows and columns in the table) that should exist in the dataset. We are using Snap/food stamp data published by Hampshire County, Massachusetts. 
+
+Based on this quick inspection, we can easily see that the statistical *value* we expect to be left with are counts of households. The challenge is identifying which "grouping variables" constitute a *case*.
+
+  - geography (nominal)
+  - snap (boolean)
+  - median income (total geography only?)
+  - senior (boolean)
+  - family (boolean)
+  - familyType (categories: married, single male, single female)
+  - children (boolean)
+  - poverty (boolean)
+  - disability (boolean)
+  - race (nominal)
+  - familyWork (0, 1, 2 adults working)
+  
+  most of these variables are not cross-tabulated with other household characteristics, but there are a few noteworthy exceptions.
+   - family is crossed with familyType
+   - family:familyType is crossed with children
+   - and familyWork only exists for family=TRUE
+   
+```{r}
+
+snap.orig <- googlesheets4::read_sheet("https://docs.google.com/spreadsheets/d/1N3FpC8k_0jNiA6uYkFP0JITzxDfh83oGalkRVo9ZBgc/edit#gid=2009914420")
+colnames(snap.orig)<-c("Label", "HH", "senior_yes", "senior_no", "del",
+                  "family_family.married", "del", "family_family.singlemale",
+                  "family_family.singlefemale", "family_nonfamily", "del",
+                  "children_yes_family_family.married", "del",
+                  "children_yes_family.singlemale", "children_yes_family.singlefemale",
+                  "cihldren_yes_familiy_nonfamily", "del", 
+                  "children_no_family_family.married", "del",
+                  "children_no_family_familiy.singlemale",
+                  "children_no_family_family.singlefemale",
+                  "cihldren_no_family_nonfamily",
+                  "del", "poverty_yes", "poverty_no", "del", "disability_yes",
+                  "disability_no", "del", "race_white", "race_black", "race_amind",
+                  "race_asian", "race_pacific", "race_other", "race_multi", 
+                  "hisp_yes", "hisp_no", "del", "income_median", "del", "del",
+                  "family_yes_worker_0", "family_yes_worker_1", "family_yes_worker_2")
+   
+```
+
+The first thing we need to do is separate out the information about Census tracts from snap data from the total rows in the `label` column. Then we can filter out all the rows that have "Estimate", "Percent", "Total" or "Census" in them, leaving only snap or no-snap counts as the rows. We can then tidy some more by cleaning up the census tract to just have the tract number, then have snap be true or false.
+
+
+```{r}
+snap<-snap.orig%>%
+  select(!starts_with("del"))%>%
+  mutate(census = ifelse(str_detect(Label, "Census"), Label, NA))%>%
+  fill(census, .direction="down")%>%
+  filter(!str_detect(Label, "Estimate|Percent|Census|Total"))%>%
+  mutate(snaphh = !str_detect(Label, "not"),
+         census = parse_number(census))%>%
+  select(-Label)
+
+```
+
+Now that we have basically cleaned data, the trick will be to pivot the data so that we have a characteristic_name, then a characteristic_value, then a hh_count (value).
+
+```{r}
+
+snap_long<-snap%>%
+  pivot_longer(-c(snaphh, census, HH, income_median), 
+              names_to = c("characteristic1", "characteristic1_value", 
+                           "characteristics2", "characteristic2_value"),
+              names_sep = "_",
+              values_to = "hhcount")
+
+```
